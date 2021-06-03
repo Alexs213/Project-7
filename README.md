@@ -3,7 +3,7 @@
 Labs
 * [Lab-01](https://github.com/Alexs213/Lab-01.git)
   <br>Learn how to use Terminal
-* Lab-02
+* [Lab-02](https://github.com/Alexs213/cit281-lab2.git)
    <br>Learn about gitignore, ignored text and for loops
 * Lab-03
 * Lab-04
