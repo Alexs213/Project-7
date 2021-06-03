@@ -20,3 +20,5 @@ Projects
 * Project-03
 * Project-04
 * Project-05
+* Project-06
+* Project-07
