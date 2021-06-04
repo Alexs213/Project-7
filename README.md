@@ -1,4 +1,7 @@
 # Project-7
+
+Link to this from home page
+
 ![Tech](project7.jpg)
 Labs
 * [Lab-01](https://github.com/Alexs213/Lab-01.git)
